@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<configuration timestamp="2023-05-17T14:03:42.219Z">
-    <base path="${user.home}/.unigrid/dependencies/lib/"/>
+<configuration timestamp="2023-05-17T16:39:45.457Z">
+    <base path="${user.home}/AppData/Roaming/UNIGRID/dependencies/lib/"/>
     <properties>
         <property key="maven.central" value="https://repo1.maven.org/maven2"/>
         <property key="default.launcher.main.class" value="org.unigrid.janus.Janus"/>
-        <property key="fx.version" value="1.0.15"/>
+        <property key="fx.version" value="1.0.16"/>
         <property key="bootstrapVersion" value="1.0.12"/>
     </properties>
     <files>
-        <file uri="https://github.com/unigrid-project/unigrid-update/releases/download/v1.0.15/fx-1.0.15.jar" size="698696" checksum="42e39187" modulepath="true" ignoreBootConflict="false"/>
-        <file uri="https://github.com/unigrid-project/daemon/releases/download/v2.9.7/unigrid-2.9.7-win64.zip" size="8999733" checksum="92c88ead" modulepath="false" ignoreBootConflict="false"/>
-        <file uri="https://github.com/unigrid-project/hedgehog/releases/download/v0.0.2/hedgehog-0.0.2-win64.exe" size="101576704" checksum="881bb04e" modulepath="false" ignoreBootConflict="false"/>
+        <file uri="https://github.com/unigrid-project/unigrid-update/releases/download/v1.0.16/fx-1.0.16.jar" size="698330" checksum="a47ff76b" modulepath="true" ignoreBootConflict="false"/>
+        <file uri="https://github.com/unigrid-project/daemon/releases/download/v2.9.8/unigrid-2.9.8-win64.zip" size="9007870" checksum="9b2a50ff" modulepath="false" ignoreBootConflict="false"/>
+        <file uri="https://github.com/unigrid-project/hedgehog/releases/download/v0.0.3/hedgehog-0.0.3-win64.exe" size="101789696" checksum="6cd73925" modulepath="false" ignoreBootConflict="false"/>
         <file uri="${maven.central}/com/jcraft/jsch/0.1.55/jsch-0.1.55.jar" size="282591" checksum="3cf0c598" modulepath="true" ignoreBootConflict="false"/>
         <file uri="${maven.central}/org/projectlombok/lombok/1.18.24/lombok-1.18.24.jar" size="1972167" checksum="ccf16270" modulepath="true" ignoreBootConflict="false"/>
         <file uri="${maven.central}/org/apache/commons/commons-lang3/3.8.1/commons-lang3-3.8.1.jar" size="501879" checksum="d783a8c4" modulepath="true" ignoreBootConflict="false"/>
